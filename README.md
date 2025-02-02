@@ -82,5 +82,5 @@ For more information about our work, please refer to:
 Compiled by / Contact:
 
 Armin Wagner: armin.wagner@giz.de
-(as of January 2025)
+(as of February 2025)
 
