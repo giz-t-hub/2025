@@ -4,6 +4,21 @@
 - Any comments or suggestions? Contact: Armin.Wagner@giz.de
 - For 2024, please refer to https://github.com/giz-t-hub/2024/
 
+### February <a name="February"></a>
+
+- <b> Data and statistics </b>
+
+- <b> Urban mobility </b>
+
+- <b> Social issues </b>
+  - <b> Assessing justice in sustainable mobility transitions: narratives from transport policies in Jakarta </b> Isti Hidayati, Wendy Tan: https://www.tandfonline.com/doi/full/10.1080/1523908X.2025.2452923#abstract - *This article proposes an analytic and evaluation framework for capturing different narratives of injustice resulting from three transport policies aiming for a sustainable mobility transition in Jakarta: (1) traffic restriction policy, (2) integrated public transport, and (3) improvement of walking and cycling infrastructures. Using content analysis of news media to identify how these policies are perceived by and affect various segments of the population, the findings revealed that a broader scope of injustice is experienced by the low-income populace, including those with ‘forced’ motorcycle ownership and captive public transport users.*
+
+- <b> Climate and environment </b>
+- <b> Transport infrastructure </b> 
+  - <b> The long journey towards a shift to rail in the European long-distance passenger transport market </b> Oded Cats: https://www.nature.com/articles/s44333-025-00025-9 - *The European long-distance passenger transport market is rapidly changing. There is a striking discrepancy between the relevance of long-distance travel for emission reduction goals and the lack of knowledge to support its design, planning and policy making. A conceptual representation of this market is provided, and four key scientific challenges are identified and discussed along with a brief review of the state-of-the-art, related knowledge gaps and a corresponding research agenda.*
+
+- <b> General </b> 
+
 ### January <a name="January"></a>
 
 - <b> Data and statistics </b>
