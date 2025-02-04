@@ -26,7 +26,8 @@ Kailai Wang, Milad Mehdizadeh, Mengqiu Cao: https://www.sciencedirect.com/scienc
   - <b> The potential and limits of the distance-based road user charging system in developing countries: Empirical evidence from Namibia </b> Naville Geiriseb, 
 Smart Dumba: https://www.sciencedirect.com/science/article/pii/S2352146524003259 - *The study results showed that the road user charges, particularly the fuel levy is set too low to generate sufficient revenue to meet the optimal funding scenario for the road network in Namibia. In addition, the study found that the introduction of a Distance-Based RUCS (DBRUCS) on the primary road network in Namibia with private sector participation is potentially feasible and could help capture some of the costs of road use that are currently not captured by the road user charges.*
 
-- <b> General </b> 
+- <b> General </b>
+  - <b> Trend Report for Planners </b> American Planning Association: https://planning-org-uploaded-media.s3.amazonaws.com/publication/download_pdf/2025-Trend-Report-for-Planners-r1.pdf -*In the fourth Trend Report for planners, crucial developments for the future of spatial planning are highlighted. Although written for American planners, it's certainly interesting for (urban) professionals from other countries as well.*
 
 ### January <a name="January"></a>
 
