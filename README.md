@@ -9,6 +9,18 @@
 - <b> Data and statistics </b>
 
 - <b> Urban mobility </b>
+
+  - <b> Urban Transport State of Play Presentations </b> Asian Transport Observatory: https://asiantransportobservatory.org/analytical-outputs/urban-state-of-play-presentations/ - *Urban State of Play presentations give an overview of the transport sector in the concerned urban center by presenting historic trends as well as outlooks in some cases for key topics covered by the ATO such as transport infrastructure, activity and services, access and connectivity, road safety, climate change, air pollution and economic impact of the transport sector. Apart from data the State of Play presentations also give an overview of existing policies, relevant targets and policy instruments. New:
+    - Phnom Penh
+    - Bengaluru
+    - Kochi
+    - Jakarta
+    - Kathmandu
+    - Karachi
+    - Lahore
+    - Peshawar
+    - Port Moresby
+    - Davao City
   - <b> Unpacking mobility cultures: a review of conceptual definitions and empirical approaches </b> Dario Stolze,Thomas Klinger &Sonja Haustein: https://www.tandfonline.com/doi/full/10.1080/01441647.2025.2454414#abstract - *While “Mobility Culture” is an emerging concept in transport science and policy, it is often defined and applied in different ways. The authors conducted a systematic literature review focusing on the definitions of the concept and how it has been approached empirically. It found that definitions of Mobility Culture are heterogeneous, often indirect and implicit, or missing entirely. We assigned papers to five definition groups based on similarity: (1) Objective and subjective characteristics, (2) subjective-only characteristics, (3) social groups and communities, (4) normative-sustainable notions of future transportation, and (5) papers lacking definitions. Among empirical papers, we identified three broader approaches: Comparative (e.g. city typologies or pre-and-post relocation studies), single-culture (e.g. place-specific mode choice, local discourses) and intervention studies.*
   - <b> Trip generation dynamics under the introduction of shared mobility </b> Vasiliki Kalliga, Santhanakrishnan Narayanan, Constantinos Antoniou: https://www.sciencedirect.com/science/article/pii/S0966692325000262 - *The travel behavior of individuals is significantly influenced by the built environment and travel facilities, impacting trip frequency, destination, and duration. This study aims to explore how these effects vary across different socioeconomic groups, particularly considering gender differences, and how individuals engage with state-of-the-art transport modes such as shared vehicles and bicycles during various stages of their life cycle.*
   - <b> The effect of ease of travel on travel behaviour and perceived accessibility: A focus on travel to university campus </b> Jonas De Vos, Long Cheng, Yuerong Zhang, 
