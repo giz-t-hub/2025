@@ -74,6 +74,8 @@ Smart Dumba: https://www.sciencedirect.com/science/article/pii/S2352146524003259
 
 - <b> General </b>
   - <b> Trend Report for Planners </b> American Planning Association: https://planning-org-uploaded-media.s3.amazonaws.com/publication/download_pdf/2025-Trend-Report-for-Planners-r1.pdf -*In the fourth Trend Report for planners, crucial developments for the future of spatial planning are highlighted. Although written for American planners, it's certainly interesting for (urban) professionals from other countries as well.*
+  - <b> Mobility transition through labs in real-world contexts. The contribution of transdisciplinary approaches in creating sustainable transportation systems☆
+Author links open overlay panel </b Jan-Marc Joost, Martin Lanzendorf, Tonio Weicker: https://www.sciencedirect.com/science/article/pii/S0966692325000444 -*" The results show that transdisciplinary labs are still generally a marginal but growing approach in the field of transportation. They cover a wide range from technology-centred to socio-ecological approaches with varying levels of stakeholder involvement. We highlight the potential of transdisciplinary labs to bridge long-standing participation gaps within transportation planning. Yet, robust evaluation of results within these approaches is limited. This constrains the empirical significance of the results and hinders transferability and scalability."* 
 
 ### January <a name="January"></a>
 
