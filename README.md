@@ -15,6 +15,8 @@
 - <b> Climate and environment </b>
 - <b> Transport infrastructure </b>
 - <b> General </b>
+  -  <b> Handbook Mobility and Society - Socio-scientific Transport and Mobility Research *(Handbuch Mobilität und Gesellschaft - Sozialwissenschaftliche Verkehrs- und Mobilitätsforschung)* Weert Canzler, Juliane Haus, Andreas Knie, Lisa Ruhrort: https://link.springer.com/referencework/10.1007/978-3-658-37804-2 - *Abstract: "This open access handbook provides an up-to-date overview of the social science research landscape on the topic of mobility and transport. It makes clear what constitutes the specific social science perspective on the topic and how this differs from other disciplinary approaches (such as transport planning or transport economics). The social and academic debate on mobility and transport has so far been dominated by economic-individualistic perspectives on the one hand and planning-technical solutions on the other. It is only recently that sociological and political science perspectives have become increasingly prominent in the debate. This handbook therefore aims to bring together the consolidated knowledge of social science mobility research and make it accessible in a compact form."* 
+
 
 ### February <a name="February"></a>
 
