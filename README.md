@@ -7,6 +7,7 @@
 ### March <a name="March"></a>
 
 - <b> Data and statistics </b>
+
   -<b> OECD Trade Facilitation Indicators - Monitoring Policies up to 2025 </b> OECD: https://www.oecd.org/en/publications/oecd-trade-facilitation-indicators_fd6f27dc-en.html?adestraproject - *This publication provides an overview of the efforts made to expedite the movement, release, and clearance of goods at the border in 163 economies. Progress on trade facilitation – as measured by the OECD Trade Facilitation Indicators (TFIs) – is occurring in all regions as countries seek to ensure that global supply chains remain efficient, adaptable, and responsive to evolving patterns of trade. Border agency co-operation is the top area of progress, yet remains the hardest to further improve. Further efforts are also needed to close the gaps between establishing regulatory frameworks for trade facilitation and their implementation in practice, particularly when automating documents and processes. Going further, increasing efficiencies through simplified and streamlined border processes remains a critical issue for promoting competitiveness and economic growth through trade costs reductions.*
 - <b> Urban mobility </b>
   - <b> A spatial-temporal dynamic attention based Mamba model for multi-type passenger demand prediction in multimodal public transit systems </b> Shao, Zhiqi, Xi, Haoning
