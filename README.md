@@ -3,7 +3,7 @@
 - Research, data, policies, plans, guidelines etc
 - Any comments or suggestions? Contact: Armin.Wagner@giz.de
 - For 2024, please refer to https://github.com/giz-t-hub/2024/
-
+ 
 ### March <a name="March"></a>
 
 - <b> Data and statistics </b>
