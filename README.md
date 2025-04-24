@@ -23,6 +23,10 @@ Carlo Prato, Marcela Munizaga: https://www.sciencedirect.com/science/article/pii
   - <b> Regional freight transport infrastructure and policy in Southeast Asia: An overview </b> ITF: https://www.itf-oecd.org/sites/default/files/regional_freight_transport_infrastructure_and_policy_in_southeast_asia.pdf - *This paper aims to capture Southeast Asia's current freight transport infrastructure landscape and policy and institutional environment. The primary sources of information are academic and policy literature reviews, including existing national and regional strategic transport plans and any existing international connectivity enhancement initiatives. The paper analyses statistical data to understand the trade patterns and flows between the ASEAN region and the world, as well as the intraregional flows among ASEAN Member States. There is a specific focus on the freight transport sectors in each of the SIPA Southeast Asiastudy’s three key countries: Indonesia, the Philippines, and Thailand.* 
 
 - <b> General </b>
+  - <b> Energy Policy Review - Germany 2025 </b> IEA: https://iea.blob.core.windows.net/assets/7fea0ad0-1cc1-45e9-810b-2d602e64642f/Germany2025.pdf - *"While 
+the world has been buffeted by geopolitical and geoeconomic challenges in recent years, Germany has worked hard to accelerate its clean energy transition. This report 
+seeks to provide Germany with timely advice on how it can progress towards its energy and climate goals"*
+
 
 ### March <a name="March"></a>
 
