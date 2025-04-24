@@ -8,7 +8,9 @@
 ### April <a name="April"></a>
 
 - <b> Data and statistics </b>
+  - <b> Official Development Assistance (ODA) Trends </b> Data as of April 2025: https://data.one.org/analysis/official-development-assistance - *Official Development Assistance or “global aid” is a transfer of money and resources from predominantly richer countries to developing countries to help fight poverty and support economic development.*
 - <b> Urban mobility </b>
+ - <b> Dynamic fleet management of waterborne vessels with mixed passenger and parcel services </b> Heisuke Miyoshi, Yimeng Zhang, Shadi Sharif Azadeh & Oded Cats: https://www.nature.com/articles/s44333-025-00035-7 - *Abstract: "The integration of mobility and logistics in transport networks offers solutions to urban transportation challenges such as traffic congestion and last-mile delivery. In cities with abundant waterways, electric waterborne vessel systems can enhance efficiency by serving both passenger and parcel demands. This study develops a dynamic fleet management model that optimizes vessel operations using a rolling horizon approach, updating plans upon new request arrivals. A mathematical model is formulated to solve a pick-up and delivery problem for heterogeneous services, complemented by an insertion heuristic for computational efficiency. Numerical experiments for Fredrikstad, Norway, compare the proposed approach with conventional fixed-purpose vessels under varying demand scenarios. Results show that the insertion heuristic significantly reduces computation time while maintaining high solution quality. Additionally, mixed-purpose vessels outperform fixed-purpose vessels in efficiency and service levels across all demand conditions."*
 - <b> Social issues </b>
 - <b> Climate and environment </b>
 - <b> Transport infrastructure </b>
