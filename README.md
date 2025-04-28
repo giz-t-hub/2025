@@ -49,6 +49,9 @@ seeks to provide Germany with timely advice on how it can progress towards its e
   - <b> International Trade and Investment Agreements and Sustainable Critical Minerals Supply </b> IISD: https://www.iisd.org/publications/report/trade-investment-agreements-critical-minerals -*This report seeks to assess the current state of play by examining the body of trade and investment agreements and asking: To what extent do current and emerging trade and investment agreements reflect a changing balance between the interests of exporting and consuming countries in the supply chains of critical minerals, including economic development and environmental and social objectives? And what are short-term priorities for improving practice?*
   - <b> Private Participation in Infrastructure: What Role for Public–Private Partnerships? </b> Emmanuelle Auriol Stephane Saussier: https://cepr.org/publications/books-and-reports/private-participation-infrastructure-what-role-public-private - *To modernise infrastructure, achieve carbon neutrality, and bolster defence and social services, the European Union must close an annual investment gap of €750–800 billion. Public–private partnerships (PPPs) are frequently proposed as a solution, but their effectiveness is debated. Can they help bridge the funding shortfall, or do they introduce inefficiencies and risks related to contract renegotiations? This report analyses data and literature, develops a theoretical framework, and conducts empirical assessments to derive key insights for the effective design and implementation of PPPs.* 
 
+- <b> New learning opportunities </b>
+  - <b> Data Fundamentals for Sustainable Mobility </b> Free, 5-week video-based online course by TUMI Data: https://transformative-mobility.org/multimedia/data-fundamentals-for-sustainable-mobility/
+
 
 ### March <a name="March"></a>
 
