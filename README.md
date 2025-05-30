@@ -10,6 +10,8 @@
 - <b> Urban mobility </b>
 - <b> Social issues </b>
 - <b> Climate and environment </b>
+  - <b> Environment in the neighbourhood
+Technical basis for a strategy for municipal sustainability and development of a communication concept
 - <b> Transport infrastructure </b>
 - <b> General </b>
 - <b> New learning opportunities </b>
