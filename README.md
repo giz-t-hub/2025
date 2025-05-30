@@ -10,8 +10,7 @@
 - <b> Urban mobility </b>
 - <b> Social issues </b>
 - <b> Climate and environment </b>
-  - <b> Environment in the neighbourhood
-Technical basis for a strategy for municipal sustainability and development of a communication concept
+  - <b> Environment in the neighbourhood </b> UBA: https://repository.difu.de/items/bb2993f1-1a6f-4b40-96e8-52beadfa9061 - *The "Environment in the Neighbourhood" project has analysed approaches to improving environmental qualities at the spatial reference level of the neighbourhood at various levels. Firstly, strategies to improve municipal sustainability for the two visions "We want green, vibrant and climate-adaptedcommunities" and "The circular city – ways to a resource-light municipality" were considered on a more fundamental level, and how the socio-ecological transformation of cities can be supported. Secondly, practical communication approaches to activate actors in neighbourhoods were developed and implemented on a pilot basis in five selected neighbourhoods. Thirdly, the challenges for improving environmental quality in existing neighbourhoods with their typical settlement structures were analysed on an application-oriented level and approaches for action were derived from this in order to determine the potential of neighbourhood development as a starting point and component of sustainable urban development. It became apparent that the neighbourhood level as a level of action and implementation offers a variety of advantages and starting points.*
 - <b> Transport infrastructure </b>
 - <b> General </b>
 - <b> New learning opportunities </b>
