@@ -4,6 +4,17 @@
 - Any comments or suggestions? Contact: Armin.Wagner@giz.de
 - For 2024, please refer to https://github.com/giz-t-hub/2024/
 
+### June <a name0"June"></a>
+
+- <b> Data and statistics </b>
+  - 
+- <b> Urban mobility </b>
+- <b> Social issues </b>
+- <b> Climate and environment </b>
+- <b> Transport infrastructure </b>
+- <b> General </b>
+- <b> New learning opportunities </b>
+
 ### May <a name="May"></a>
 
 - <b> Data and statistics </b>
