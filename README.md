@@ -6,8 +6,8 @@
 
 ### June <a name="June"></a>
 
+
 - <b> Data and statistics </b>
-  - 
 - <b> Urban mobility </b>
 - <b> Social issues </b>
 - <b> Climate and environment </b>
