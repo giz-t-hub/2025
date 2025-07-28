@@ -4,7 +4,7 @@
 - Any comments or suggestions? Contact: Armin.Wagner@giz.de
 - For 2024, please refer to https://github.com/giz-t-hub/2024/
 
-### June <a name="June"></a>
+### June / July <a name="June"></a>
 
 
 - <b> Data and statistics </b>
