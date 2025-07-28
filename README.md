@@ -13,6 +13,8 @@
 - <b> Urban mobility </b>
 
 - <b> Social issues </b>
+  - <b> Deliberating sufficiency in transport: Fair car use budgets for London </b> Philipp Rode, Alexandra Gomes, Jannis Linke, Kate Laffan,  
+Charlie Hicks: https://www.sciencedirect.com/science/article/pii/S0967070X25002306?via%3Dihub - *Abstract: "This paper investigates notions of fairness and the role of deliberative exercises as part of urban transport policy design. Its point of departure is the sufficiency principle informed by conditions of scarcity for private car use in cities. It focuses on questions of fairness in assigning hypothetical car use budgets for the case of London. Two different budgets are considered, one associated with carbon emission ceilings and another for space constraints. The study that underpins this paper is based on a mixed method approach including a dedicated representative survey for London, a deliberation simulation based on a citizens’ jury with nine participants and a pilot behavioural experiment alongside interviews with a total of 19 London car drivers. Three key findings are established: First, deliberative engagement can be a constructive and feasible approach adding to the general democratic legitimacy of decision making in transport policy. Second, while fairness deliberations, perceptions and sentiments are complex, coherent understandings do emerge for both differential treatments of social groups and priorities of fairness principles. Third, car use budgets may be a helpful tool that can be indirectly utilised for policy design and deliberative formats."*
 
 - <b> Climate and environment </b>
 
