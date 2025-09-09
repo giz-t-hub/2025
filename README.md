@@ -8,8 +8,14 @@
 
 - <b> Data and statistics </b>
 - <b> Urban mobility </b>
+  - <b> Understanding factors influencing ride-splitting adoption in Beijing: A comparative analysis with solo ride-hailing </b> Danyue Zhi, Ying Lv, Huijun Sun, 
+Xiaoyan Feng, Weize Song, Alejandro Tirachini, Constantinos Antoniou: https://www.sciencedirect.com/science/article/pii/S0965856425002538?dgcid=coauthor - *Abstract: "Ride-splitting, a special kind of ride-hailing service, presents significant potential for energy savings and emission reduction. Studying factors that promote ride-splitting can help build sustainable transportation systems. Although many studies have analyzed the impact of the built environment and sociodemographic variables on ride-splitting, there is a lack of consideration of variables specific to ride-hailing systems. This study aims to analyze the complex impact of explanatory variables (including ride-hailing system-specific variables) on ride-splitting, based on an interpretable machine-learning framework. (...)"*
+  - <b> Evaluating the safety and speed impacts of the 20mph speed limit in the UK: Evidence and insights </b> Mohammed Quddus, Athanasios Theofilatos,
+Mingjie Feng, Rune Elvik: https://www.sciencedirect.com/science/article/pii/S0001457525002969?dgcid=coauthor - *Abstract: "Studies on the effectiveness of 20mph speed limits in the UK vary due to differences in context, methods, data, environments, and schemes. Many of them do not account for confounding factors like regression-to-the-mean, long-term trends, or changes in traffic volume, making it difficult to generalise their overall impact. Moreover, there is a need to account for the different effects of physical measures (speed humps, cameras) and sign-only measures, when examining the benefits of 20mph limits. Hence, the present paper attempts to add to current knowledge in the field and address these issues by developing a methodology to assess and classify the quality and validity of existing studies on 20mph speed limits in the UK."*
+
 - <b> Social issues </b>
 - <b> Climate and environment </b>
+  - <b> The hidden trends in battery supply and demand: A regional analysis </b> McKinsey: https://www.mckinsey.com/features/mckinsey-center-for-future-mobility/our-insights/the-hidden-trends-in-battery-supply-and-demand-a-regional-analysis#/ - *Global trends suggest that the battery market is oversaturated, but a regional analysis reveals pockets of opportunity.*
 - <b> Transport infrastructure </b>
 - <b> General </b>
 
