@@ -9,7 +9,7 @@
 
 - <b> Data and statistics </b>
   - <b> Mobility Transition Radar (*Verkehrswende Radar*) </b> Agora Verkehrswende: https://www.agora-verkehrswende.de/veroeffentlichungen/verkehrswende-radar - *Data on mobility transition in Germany*
-  - Must read: <b> https://gsr4.slocat.net/wp-content/uploads/sites/2/2025/10/Transport-Climate-and-Sustainability-Global-Status-Report-4th-Edition.pdf
+  - Must read: <b> Transport, Climate and Sustainability Global Status Report </b> SLOCAT: https://gsr4.slocat.net/wp-content/uploads/sites/2/2025/10/Transport-Climate-and-Sustainability-Global-Status-Report-4th-Edition.pdf - *The GSR is your one stop-hub for the latest data, trends, and policies shaping sustainable transport worldwide, covering demand, use and access to transport; climate and sustainability trends; and policy and investment developments. The goal? Equip decision-makers and actors within and beyond transport with an assessment of where we stand, and knowledge for faster, bolder action. Since 2018 and over four editions, the GSR has grown into a powerful collective effort, with 300+ experts from 200+ organisations worldwide as advisors, authors, data contributors and peer reviewers. This diverse community is what makes the GSR rich and relevant.*
   - 
 - <b> Urban mobility </b>
   - <b> Scalable validation of automated bicycle and pedestrian counters: evidence from Washington, D.C. </b> Vahid Bakhshi, 
