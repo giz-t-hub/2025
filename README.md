@@ -9,6 +9,7 @@
 
 - <b> Data and statistics </b>
   - <b> Mobility Transition Radar (*Verkehrswende Radar*) </b> Agora Verkehrswende: https://www.agora-verkehrswende.de/veroeffentlichungen/verkehrswende-radar - *Data on mobility transition in Germany*
+  - Must read: <b> https://gsr4.slocat.net/wp-content/uploads/sites/2/2025/10/Transport-Climate-and-Sustainability-Global-Status-Report-4th-Edition.pdf
   - 
 - <b> Urban mobility </b>
   - <b> Scalable validation of automated bicycle and pedestrian counters: evidence from Washington, D.C. </b> Vahid Bakhshi, 
