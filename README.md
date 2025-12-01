@@ -12,6 +12,9 @@
 - <b> Climate and environment </b>
 - <b> Transport infrastructure </b>
 - <b> Logistics and Trade </b>
+  - <b> Digital and Sustainable Trade Facilitation: Global Report 2025 </b> https://www.untfsurvey.org/files/documents/2025-UNTF-Global-Report.pdf - *This report presents the results of the sixth United Nations (UN) Global Survey on Digital and Sustainable Trade Facilitation. It brings together information from countries worldwide pertaining to the implementation of a wide range of trade facilitation measures, going beyond the scope of measures included in the World Trade Organization (WTO) Trade Facilitation Agreement (TFA). The report aims to foster a forward-looking and inclusive approach to trade facilitation among countries and development partners, deepening the collective understanding and monitoring of progress, strengthening the foundation for evidence-based policymaking, fostering the exchange of innovative and effective practices, and identifying emerging priorities for capacity-building, technical assistance, and international cooperation.*
+
+
 - <b> General </b>
 
 ### September / October <a name="September"></a>
