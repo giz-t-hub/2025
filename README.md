@@ -4,6 +4,16 @@
 - Any comments or suggestions? Contact: Armin.Wagner@giz.de
 - For 2024, please refer to https://github.com/giz-t-hub/2024/
 
+### December <a name="December"></a>
+
+- <b> Data and statistics </b>
+- <b> Urban mobility </b>
+- <b> Social issues </b>
+- <b> Climate and environment </b>
+- <b> Transport infrastructure </b>
+- <b> Logistics and Trade </b>
+- <b> General </b>
+
 ### November <a name="November"></a>
 
 - <b> Data and statistics </b>
